@@ -1,0 +1,28 @@
+5
+3 3
+PPP
+PWP
+PPP
+4 2
+PW
+P.
+WP
+P.
+2 2
+P.
+.W
+3 5
+PW.PW
+..W..
+WPPPW
+10 10
+PPPPPPPPPP
+WWWWWWWWWW
+..........
+PPPPPPPPPP
+WWWWWWWWWW
+..........
+PPPPPPPPPP
+WWWWWWWWWW
+..........
+.PW.PW.PW.

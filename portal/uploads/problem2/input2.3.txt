@@ -1,0 +1,28 @@
+5
+10 10
+PPPPPPPPPP
+WWWWWWWWWW
+..........
+PPPPPPPPPP
+WWWWWWWWWW
+..........
+PPPPPPPPPP
+WWWWWWWWWW
+..........
+.PW.PW.PW.
+4 2
+PW
+P.
+WP
+P.
+3 3
+PPP
+PWP
+PPP
+3 5
+PW.PW
+..W..
+WPPPW
+2 2
+P.
+.W
